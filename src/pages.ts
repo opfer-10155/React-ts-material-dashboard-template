@@ -26,6 +26,12 @@ export const pages: { [key: string]: Page }
     isLinkedSidebar: true,
     sidebarOrder: 2
   },
+  nodeGraph: {
+    title: 'node-graph',
+    href: '/node-graph',
+    isLinkedSidebar: true,
+    sidebarOrder: 3
+  },
   notFound: {
     title: 'Notfound',
     href: '/not-found',
